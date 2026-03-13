@@ -58,6 +58,7 @@
     "grommet-icons": "^4.14.0",
     "loki": "^0.35.1",
     "markdown-to-jsx": "7.4.4",
+    "odinsnap": "^2.1.0",
     "prop-types": "^15.8.1"
   },
   "devDependencies": {
