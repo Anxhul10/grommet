@@ -58,7 +58,7 @@
     "grommet-icons": "^4.14.0",
     "loki": "^0.35.1",
     "markdown-to-jsx": "7.4.4",
-    "odinsnap": "^2.1.0",
+    "odinsnap": "^2.1.4",
     "prop-types": "^15.8.1"
   },
   "devDependencies": {
@@ -249,5 +249,12 @@
     "graphical user interface",
     "styled-components"
   ],
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "odinsnap": {
+    "barrelImports": [
+      "/src/js/components/index.js",
+      "/src/js/index.js"
+    ],
+    "depth": 4
+  }
 }

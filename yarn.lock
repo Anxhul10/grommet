@@ -11580,7 +11580,7 @@ __metadata:
     jsdom: "npm:^27.4.0"
     loki: "npm:^0.35.1"
     markdown-to-jsx: "npm:7.4.4"
-    odinsnap: "npm:^2.1.0"
+    odinsnap: "npm:^2.1.4"
     postcss: "npm:^8.5.6"
     pre-commit: "npm:^1.2.2"
     prettier: "npm:^2.8.8"
@@ -15041,9 +15041,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"odinsnap@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "odinsnap@npm:2.1.0"
+"odinsnap@npm:^2.1.4":
+  version: 2.1.4
+  resolution: "odinsnap@npm:2.1.4"
   dependencies:
     "@discoveryjs/json-ext": "npm:^0.6.3"
     dag-rs: "npm:^0.2.1"
@@ -15051,7 +15051,7 @@ __metadata:
     tsx: "npm:^4.21.0"
   bin:
     odinsnap: dist/bin/odinsnap.js
-  checksum: 10c0/b35621340061cd80379f5f74fd11f17f0b8ad1c7e9874de42aa46be762adce2f84af531497a4bfa87c8839e0aced4406658a6764191c9449f1eea16f8aa55ea2
+  checksum: 10c0/910757c2627d399c7300cea4bd865d0b7d463a7a2c6ed915959c7a9f2f98462f09293b1c3c8a5777dd68a05f0879f57a4ee3904d8b00b832110d22a61fbb7512
   languageName: node
   linkType: hard
 
